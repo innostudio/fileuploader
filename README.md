@@ -44,6 +44,6 @@ Features
 
 License
 -------
-Fileuploader is licensed under the <a href="https://opensource.org/licenses/gpl-3.0.html" target="_blank">GPLv3 license</a> for all open source applications. A <b>commercial license</b> is required for all commercial applications (including sites for your customers, themes and apps you plan to sell).
+Fileuploader is licensed under the <a href="https://opensource.org/licenses/gpl-3.0.html" target="_blank">GPLv3 license</a> for all open source applications. A <b>license</b> is required if you are using this plugin in more than 1 of your products and for all commercial applications (including sites for your customers, themes and apps you plan to sell).
 <br>
 <b><a href="http://innostudio.de/fileuploader/#download">Get a License</a></b>
