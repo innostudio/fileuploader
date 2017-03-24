@@ -38,6 +38,8 @@ Features
   <li>11 different examples that you can use</li>
   <li>Fully commented and documented in more than 6243 words</li>
 </ul>
+<img src="http://innostudio.de/fileuploader/images/image-2.jpg">
+<hr>
 <img src="http://innostudio.de/fileuploader/images/image-4.jpg">
 
 License
