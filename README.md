@@ -41,9 +41,3 @@ Features
 <img src="http://innostudio.de/fileuploader/images/image-2.jpg">
 <hr>
 <img src="http://innostudio.de/fileuploader/images/image-4.jpg">
-
-License
--------
-Fileuploader is licensed and a license code is required if you are using this plugin in one of your projects (including sites for your customers) or a commercial license code for all commercial applications (including sites, themes and apps you plan to sell). Sharing or selling it particullary is not allowed.
-<br>
-<b><a href="http://innostudio.de/fileuploader/#download">Get a License</a></b>
