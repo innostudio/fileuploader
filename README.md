@@ -1,7 +1,7 @@
 # Fileuploader
 Beautiful and powerful HTML file uploading tool. A jQuery and PHP plugin that transforms the standard input into a revolutionary and fancy field on your page.
 
-<a href="http://innostudio.de/fileuploader/"><b>Download</b></a> | <a href="http://innostudio.de/fileuploader/documentation/"><b>Documentation</b></a> | <a href="http://innostudio.de/fileuploader/#download"><b>Licenses</b></a>
+<a href="https://innostudio.de/fileuploader/"><b>Download</b></a> | <a href="https://innostudio.de/fileuploader/documentation/"><b>Documentation</b></a> | <a href="https://innostudio.de/fileuploader/documentation/#license"><b>Licenses</b></a>
 <br><br>
 <img src="http://innostudio.de/fileuploader/preview2.jpg">
 <br><br>
