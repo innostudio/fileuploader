@@ -25,6 +25,7 @@ Features
   <li>Upload progressbar with many data available</li>
   <li>Start, retry and cancel upload actions</li>
   <li>Paste images from clipboard (only in Chrome)</li>
+  <li>Image rotating, cropping and resizing tool</li>
   <li>Validate the file's limit, size and extension. You can also use your own function</li>
   <li>Edit mode for already uploaded files</li>
   <li>All files are in one list in a hidden input</li>
