@@ -9,10 +9,10 @@ Beautiful and powerful HTML file uploading tool. A jQuery and PHP plugin that tr
 Features
 -------
 <ul>
-  <li>Very easy to install (3 files only to include in your HTML page)</li>
+  <li>Easy to install (3 files only to include in your HTML page)</li>
   <li>Works in traditional HTML form</li>
   <li>File preview with image thumbnail or icon</li>
-  <li>File image thumbnail can be generated in canvas to resize it perfectly for given with and height</li>
+  <li>File image thumbnail can be generated in canvas to resize it perfectly for given width and height</li>
   <li>Render synchron the file preview</li>
   <li>File icon background is generated from file extension</li>
   <li>Customize your own input and thumbnail elements</li>
