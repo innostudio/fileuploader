@@ -1,5 +1,5 @@
-# jQuery.Fileuploader 2.0
-Beautiful and powerful HTML file uploading tool. A jQuery and PHP plugin that transforms the standard input into a revolutionary and fancy field on your page.
+# Fileuploader 2.1
+Beautiful and powerful HTML file uploading tool. A jQuery, PHP and Node.js plugin that transforms the standard input into a revolutionary and fancy field on your page.
 
 <a href="https://innostudio.de/fileuploader/"><b>Download</b></a> | <a href="https://innostudio.de/fileuploader/documentation/"><b>Documentation</b></a> | <a href="https://innostudio.de/fileuploader/documentation/#license"><b>Licenses</b></a>
 <br><br>
@@ -36,7 +36,8 @@ Features
   <li>PHP upload helper</li>
   <li>PHP generates an array with many file informations</li>
   <li>PHP can create a custom file name</li>
+  <li>Node.js file upload module</li>
   <li>API and more than 24 Callbacks to manipulate freely the appearance and functionality of your file input</li>
-  <li>16 different examples that you can use</li>
+  <li>18 different examples that you can use</li>
   <li>Fully commented and documented in more than 6243 words</li>
 </ul>
