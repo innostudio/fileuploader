@@ -1,5 +1,5 @@
-# Fileuploader 2.1
-Beautiful and powerful HTML file uploading tool. A jQuery, PHP and Node.js plugin that transforms the standard input into a revolutionary and fancy field on your page.
+# Fileuploader 2.2
+Beautiful and powerful HTML file uploading tool. A jQuery, PHP and Node.js plugin that transforms the standard input into a revolutionary, fancy and responsive field on your page.
 
 <a href="https://innostudio.de/fileuploader/"><b>Download</b></a> | <a href="https://innostudio.de/fileuploader/documentation/"><b>Documentation</b></a> | <a href="https://innostudio.de/fileuploader/documentation/#license"><b>Licenses</b></a>
 <br><br>
@@ -26,6 +26,7 @@ Features
   <li>Start, retry and cancel upload actions</li>
   <li>Paste images from clipboard (only in Chrome)</li>
   <li>Image rotating, cropping and resizing tool</li>
+  <li>Image zoomer</li>
   <li>Exif orientation fix</li>
   <li>Validate the file's limit, size and extension. You can also use your own function</li>
   <li>Edit mode for already uploaded files</li>
