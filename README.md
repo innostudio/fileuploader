@@ -3,7 +3,7 @@ Beautiful and powerful HTML file uploading tool. A jQuery, PHP and Node.js plugi
 
 <a href="https://innostudio.de/fileuploader/"><b>Download</b></a> | <a href="https://innostudio.de/fileuploader/documentation/"><b>Documentation</b></a> | <a href="https://innostudio.de/fileuploader/documentation/#license"><b>Licenses</b></a>
 <br><br>
-<a href="https://innostudio.de/fileuploader/"><img src="https://innostudio.de/fileuploader/preview2.1.jpg" alt="jquery file upload plugin"></a>
+<a href="https://innostudio.de/fileuploader/"><img src="https://innostudio.de/fileuploader/preview2.2.jpg" alt="jquery file upload plugin"></a>
 <br><br>
 
 Features
@@ -37,6 +37,8 @@ Features
   <li>PHP upload helper</li>
   <li>PHP generates an array with many file informations</li>
   <li>PHP can create a custom file name</li>
+  <li>Laravel example</li>
+  <li>MySQL example</li>
   <li>Node.js file upload module</li>
   <li>Amazon S3 file upload plugin</li>
   <li>API and more than 24 Callbacks to manipulate freely the appearance and functionality of your file input</li>
