@@ -28,6 +28,7 @@ Features
   <li>Image rotating, cropping and resizing tool</li>
   <li>Image zoomer</li>
   <li>Exif orientation fix</li>
+  <li>PDF viewer</li>
   <li>Validate the file's limit, size and extension. You can also use your own function</li>
   <li>Edit mode for already uploaded files</li>
   <li>All files are in one list in a hidden input</li>
