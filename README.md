@@ -16,7 +16,7 @@ Features
   <li>Render synchron the file preview</li>
   <li>File icon background is generated from file extension</li>
   <li>Customize your own input and thumbnail elements</li>
-  <li>4 templates included</li>
+  <li>8 templates included</li>
   <li>Responsive and fancy animations</li>
   <li>Choose multiple files from different folders</li>
   <li>Drag&amp;Drop feature</li>
@@ -38,6 +38,7 @@ Features
   <li>PHP upload helper</li>
   <li>PHP generates an array with many file informations</li>
   <li>PHP can create a custom file name</li>
+  <li>Avatar example</li>
   <li>Laravel example</li>
   <li>MySQL example</li>
   <li>Node.js file upload module</li>
