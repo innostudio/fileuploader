@@ -45,5 +45,6 @@ Features
   <li>Amazon S3 file upload plugin</li>
   <li>API and more than 24 Callbacks to manipulate freely the appearance and functionality of your file input</li>
   <li>18 different examples that you can use</li>
+  <li>Multilingual - 14 languages available</li>
   <li>Fully commented and documented in more than 6243 words</li>
 </ul>
