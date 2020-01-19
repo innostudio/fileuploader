@@ -1,5 +1,5 @@
 # Fileuploader 2.2
-Beautiful and powerful HTML file uploading tool. A jQuery, PHP and Node.js plugin that transforms the standard input into a revolutionary, fancy and responsive field on your page.
+Beautiful and powerful HTML file uploading tool. A jQuery, PHP, ASP.NET C# and Node.js plugin that transforms the standard input into a revolutionary, fancy and responsive field on your page.
 
 <a href="https://innostudio.de/fileuploader/"><b>Download</b></a> | <a href="https://innostudio.de/fileuploader/documentation/"><b>Documentation</b></a> | <a href="https://innostudio.de/fileuploader/documentation/#license"><b>Licenses</b></a>
 <br><br>
@@ -41,6 +41,7 @@ Features
   <li>Avatar example</li>
   <li>Laravel example</li>
   <li>MySQL example</li>
+  <li>ASP.NET C# file upload class</li>
   <li>Node.js file upload module</li>
   <li>Amazon S3 file upload plugin</li>
   <li>API and more than 24 Callbacks to manipulate freely the appearance and functionality of your file input</li>
