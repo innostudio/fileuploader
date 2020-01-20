@@ -41,6 +41,8 @@ Features
   <li>Avatar example</li>
   <li>Laravel example</li>
   <li>MySQL example</li>
+  <li>React component</li>
+  <li>Vue.js component</li>
   <li>ASP.NET C# file upload class</li>
   <li>Node.js file upload module</li>
   <li>Amazon S3 file upload plugin</li>
